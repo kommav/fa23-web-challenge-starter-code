@@ -1,8 +1,13 @@
 # Fall 2023 Web Challenge Starter Code
 
+Before running the website, you'll need to install all the dependencies.
+```
+$ npm install
+```
+
 To start the website, run the following command:
 ```
-npm run dev
+$ npm run dev
 ```
 The website should be visible at `http://localhost:3000/`.
 
